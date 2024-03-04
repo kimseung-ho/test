@@ -7,3 +7,4 @@ from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
 print("main")
+print("test code other directory")
